@@ -4,7 +4,7 @@ To install these files, download the zip, then copy everything other than "READM
 Currently these are the following games and hardware I've worked on:
 
 Games:
-- [Wii/USA] Metroid Prime Trilogy 
+- [Wii/USA] Metroid Prime Trilogy/MP1 thus far
 - [Wii/USA] Wii Sports
 
 Hardware:
