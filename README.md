@@ -1,11 +1,2 @@
 This is my current work on the configurations of games and controllers for the Dolphin VR emulator. 
-To install these files, download the zip, then copy everything other than "README.md' to your "Dolphin Emulator"  folder in your documents
-
-Currently these are the following games and hardware I've worked on:
-
-Games:
-- [Wii/USA] Metroid Prime Trilogy/MP1 thus far
-- [Wii/USA] Wii Sports
-
-Hardware:
-- Valve Index Controllers
+To install these files, download the zip, then copy the folders to your "Dolphin Emulator"  folder in your documents
